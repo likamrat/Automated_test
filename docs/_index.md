@@ -7,4 +7,4 @@ menu:
   main:
     weight: 20
 ---
-This is a test - KL
+Once upon a time in a land far far away - KL
