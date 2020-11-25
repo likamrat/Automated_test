@@ -1,6 +1,6 @@
 ---
-title: "Seurity"
-linkTitle: "Seurity"
+title: "Security"
+linkTitle: "Security"
 weight: 6
 description: >
 ---
